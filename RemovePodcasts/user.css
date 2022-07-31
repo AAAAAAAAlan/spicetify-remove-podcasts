@@ -1,0 +1,15 @@
+section[aria-label*='Shows to try'],
+section[aria-label*='What\'s trending?'],
+section[aria-label*='For today\'s drive'],
+section[aria-label*='Best podcasts for sleep'],
+section[aria-label*='Shows you might like'],
+section[aria-label*='Good evening'],
+section[aria-label*='Good afternoon'],
+section[aria-label*='Good morning'],
+section[aria-label*='Your shows'],
+section[aria-label*='Popular with listeners'] {
+  aria-hidden: "true";
+  display: none;
+  visibility: hidden;
+  hidden: true;
+}
