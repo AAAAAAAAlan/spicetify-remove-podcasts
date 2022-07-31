@@ -1,0 +1,1 @@
+# spicetify-remove-podcasts
